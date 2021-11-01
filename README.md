@@ -1,3 +1,13 @@
+
+# 更新于 2021 年 11 月
+
+自 PHP8.0 起开始做此文档的长久维护，详见 —— [开始翻译 —— PHP 之道 PHP The Right Way （长久维护）](https://learnku.com/php/t/62209)。
+
+最新文档地址 —— https://learnku.com/docs/php-the-right-way/PHP8.0 
+
+
+
+
 # PHP 之道
 
 [在线地址](https://laravel-china.github.io/php-the-right-way/)
